@@ -16,4 +16,7 @@
     "url": "https://github.com/masnasrinu/hello-workd/issues"
   },
   "homepage": "https://github.com/masnasrinu/hello-workd#readme"
+  "publishConfig": {
+   "@masnasrinu:registry": "https://npm.pkg.github.com"
+  }
 }
